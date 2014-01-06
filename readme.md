@@ -1,12 +1,3 @@
-::
-
-by antknox
-
-2014-01-05
-
-
-update 2014-1-5 
-
 关闭下载软件.bat
 
 --迅雷
@@ -22,3 +13,7 @@ update 2014-1-5
 :备份桌面文件
 
 :默认位置为:D:\Desktopfilebackup
+
+by antknox
+
+update 2014-1-5 
