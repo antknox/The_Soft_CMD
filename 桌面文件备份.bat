@@ -19,7 +19,7 @@ if not exist "D:\Desktopfilebackup" md D:\Desktopfilebackup
 
 
 if exist "%UserProfile%\×ÀÃæ" goto BXP
-if exist "%UserProfile%\desktop" goto BW7
+if exist "%UserProfile%\Desktop" goto BW7
 goto ET
 
 :BXP
@@ -27,7 +27,7 @@ xcopy /e "%UserProfile%\×ÀÃæ"  D:\Desktopfilebackup
 goto ET
 
 :BW7
-xcopy /e "%UserProfile%\desktop" D:\Deskfilebackup
+xcopy /e "%UserProfile%\Desktop" D:\Desktopfilebackup
 goto ET
 
 :ET
